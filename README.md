@@ -2,10 +2,7 @@
 
 A full-stack inventory management system built with React, Node.js, Express, and MySQL.
 
-## 🌐 Live Demo
-[View on GitHub Pages](https://Sanda_1113.github.io/inventory-tracker/)
-
-*Note: The live demo is a static page. For full functionality, run the application locally.*
+The live demo is a static page. For full functionality, run the application locally.*
 
 ## 🚀 Features
 
